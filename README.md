@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science.
 - 🌱 I’m currently learning Bachelor's in Computer Science.
 - 💞️ I’m looking to collaborate on Coding projects revolving around innovative ideas.
-- 📫 How to reach me 
+- 📫 How to reach me: nkc150802@gmail.com
 
 <!---
 Hexzenberg/Hexzenberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
