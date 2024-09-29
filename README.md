@@ -1,4 +1,4 @@
-- Greetings, This is Nikhil Kumar Chaudhary aka Hexzenberg.
+- Hi, This is Nikhil Kumar Chaudhary aka Hexzenberg.
 - I’m interested in Machine Learning and software development.
 - I’m currently enrolled in Bachelor's program with specialization in Computer Science and Engineering.
 - I’m looking to collaborate on Coding projects revolving around innovative ideas.
