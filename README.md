@@ -1,5 +1,5 @@
 - Hi, This is Nikhil Kumar Chaudhary aka Hexzenberg.
-- Looking to collaborate on Coding projects revolving around innovative ideas.
+- Always learning and implementing tech.
 - I want to contribute to our evolution further as a species.
 - I am interested in everything related to computers! 
 - How to reach me: hexzenberg@gmail.com
